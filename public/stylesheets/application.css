@@ -1,5 +1,14 @@
-h1 {
+h1 { /* could also do h1,p whihc means that you apply the same style to both h1 and p*/
     color: red; /*#every rule must end in semi-colon*/
     font-size: 72px;
     font-weight: bold;
+}
+
+#grogu {  /* for any paragraphs with the ID of grogu*/
+    color: green; 
+    font-size: 36px;
+}
+
+.tacos{
+    color: purple;
 }
