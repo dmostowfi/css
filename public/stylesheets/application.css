@@ -1,0 +1,5 @@
+h1 {
+    color: red; /*#every rule must end in semi-colon*/
+    font-size: 72px;
+    font-weight: bold;
+}
